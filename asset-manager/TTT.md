@@ -263,7 +263,7 @@ scripts/stopapp.sh
 1. 在 Assessment Report 的 **Issues** 分頁中，找到底部的 **Java Upgrade** 表格。
 2. 在 **Java Version Upgrade** 項目右側，點擊 **Run Task** 按鈕。
 
-   > 📸 參考截圖：`doc-media/java-upgrade.png`
+   > ![📸 參考截圖](doc-media/java-upgrade.png)
 
 ### 4.2 配合 Agent 執行
 
@@ -302,7 +302,7 @@ scripts/stopapp.sh
 2. 在 Solution 清單中，找到 **Migrate to Azure Database for PostgreSQL (Spring)**。
 3. 點擊該項目右側的 **Run Task** 按鈕。
 
-   > 📸 參考截圖：`doc-media/confirm-postgresql-solution.png`
+   > ![📸 參考截圖](doc-media/confirm-postgresql-solution.png)
 
 ### 5.2 Copilot Agent 自動執行
 
@@ -401,7 +401,7 @@ Agent 開啟後會依序執行以下步驟：
 1. 在左側 Activity Bar 中，開啟 **GitHub Copilot App Modernization** 擴充套件面板。
 2. 將滑鼠移至 **TASKS** 區塊上方，點擊 **Create a Custom Skill** 按鈕。
 
-   > 📸 參考截圖：`doc-media/create-formula-from-source-control.png`
+   > ![📸 參考截圖](doc-media/create-formula-from-source-control.png)
 
 ### 8.2 填寫 Skill 表單
 
@@ -421,7 +421,7 @@ Agent 開啟後會依序執行以下步驟：
    https://docs.spring.io/spring-boot/reference/actuator/endpoints.html
    ```
 
-   > 📸 參考截圖：`doc-media/health-endpoint-task.png`
+   > ![📸 參考截圖](doc-media/health-endpoint-task.png)
 
 ### 8.4 儲存並執行
 
@@ -458,14 +458,14 @@ Agent 開啟後會依序執行以下步驟：
 1. 在擴充套件面板的 **TASKS** 區塊中，展開 **Common Tasks** > **Containerize Tasks**。
 2. 點擊 **Containerize Application** 的 Run 按鈕。
 
-   > 📸 參考截圖：`doc-media/containerization-run-task.png`
+   > ![📸 參考截圖](doc-media/containerization-run-task.png)
 
 ### 9.2 Agent 分析並建立計畫
 
 1. Copilot Chat 以 Agent Mode 開啟，預設 prompt 已自動填入。
 2. Agent 分析工作區，建立 `containerization-plan.copilotmd` 檔案。
 
-   > 📸 參考截圖：`doc-media/containerization-plan.png`
+   > ![📸 參考截圖](doc-media/containerization-plan.png)
 
 ### 9.3 配合 Agent 執行
 
@@ -494,7 +494,7 @@ Agent 開啟後會依序執行以下步驟：
 1. 在擴充套件面板的 **TASKS** 區塊中，展開 **Common Tasks** > **Deployment Tasks**。
 2. 點擊 **Provision Infrastructure and Deploy to Azure** 的 Run 按鈕。
 
-   > 📸 參考截圖：`doc-media/deployment-run-task.png`
+   > ![📸 參考截圖](doc-media/deployment-run-task.png)
 
 ### 10.2 選擇目標服務
 
@@ -503,7 +503,7 @@ Agent 開啟後會依序執行以下步驟：
   - 點擊 Copilot Chat 中的 prompt。
   - 將最後一句修改為 `Hosting service: AKS`。
 
-   > 📸 參考截圖：`doc-media/deployment-prompt.png`
+   > ![📸 參考截圖](doc-media/deployment-prompt.png)
 
 ### 10.3 Agent 建立部署計畫
 
@@ -519,7 +519,7 @@ Agent 開啟後會依序執行以下步驟：
 2. 點擊 **Keep** 儲存計畫。
 3. 在 Chat 中輸入 **`Execute the plan`** 開始部署。
 
-   > 📸 參考截圖：`doc-media/deployment-execute.png`
+   > ![📸 參考截圖](doc-media/deployment-execute.png)
 
 ### 10.5 配合 Agent 完成部署
 
@@ -530,7 +530,7 @@ Agent 開啟後會依序執行以下步驟：
    - 修復可能出現的錯誤
    - 完成部署
 
-   > 📸 參考截圖：`doc-media/deployment-progress.png`
+   > ![📸 參考截圖](doc-media/deployment-progress.png)
 
 3. 可在 `progress.copilotmd` 中查看部署狀態。
 
