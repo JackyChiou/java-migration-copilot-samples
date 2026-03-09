@@ -226,7 +226,7 @@ scripts/stopapp.sh
 
 1. 在擴充套件面板的 **QUICKSTART** 區塊中，點擊 **Start Assessment** 按鈕。
 
-   > 📸 參考截圖：`doc-media/trigger-assessment.png`
+   > ![📸 參考截圖](doc-media/trigger-assessment.png)
 
 2. 等待評估完成（約需數分鐘）。
 
