@@ -1,4 +1,4 @@
-# AppMod 領導彙報版 HTML 報告 Prompt 範本（中文）
+# AppMod 領導彙報版 HTML 報告 Prompt 範本（繁體中文）
 
 ## 使用方式
 將以下 Prompt 整段複製到 Copilot Chat（或任意大模型），並替換輸入佔位元：
