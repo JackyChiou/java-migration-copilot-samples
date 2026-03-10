@@ -418,7 +418,7 @@ Agent 開啟後會依序執行以下步驟：
 ### 8.3 新增參考資源
 
 1. 點擊 **Add Resources**。
-2. 貼上 Spring Boot Actuator 官方文件連結：
+2. 貼上 Spring Boot Actuator 官方文件連結, 存成 PDF 後加入 Resource：
    ```
    https://docs.spring.io/spring-boot/reference/actuator/endpoints.html
    ```
