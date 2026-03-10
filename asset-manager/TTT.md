@@ -153,6 +153,8 @@ mvn -version
 
 docker --version
 # 確認 Docker 已安裝
+
+# 開啟 Docker Desktop (Startapp.cmd 會下載 image 並使用)
 ```
 
 ### 1.3 啟動應用
